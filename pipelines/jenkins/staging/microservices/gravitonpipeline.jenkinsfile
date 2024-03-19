@@ -1,2 +1,2 @@
 #!groovy
-@Library('devops-library') _
+@Library('devops-library-bxcode') _
